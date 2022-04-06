@@ -1,0 +1,5 @@
+apiKey giphy developers
+p41z9dk33IfJohl6cRjYA76iuSQVPge1
+
+
+api.giphy.com/v1/gifs/search
